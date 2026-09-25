@@ -1,0 +1,3 @@
+We are hiring a Python Developer with experience in SQL, Pandas, REST API
+development using Flask or FastAPI, Git version control, and unit testing
+with pytest. Knowledge of machine learning and AWS is a plus.
